@@ -1,10 +1,12 @@
 ## ⌜ ✦ Ayush Gupta ⌟ 💞
 
-[![Web Developer](https://img.shields.io/badge/Web-Developer-blueviolet?style=flat)](#)
-[![MERN Stack](https://img.shields.io/badge/MERN_Stack-Learner-red?style=flat)](#)
-[![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-success?style=flat)](#)
-[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Enthusiast-orange?style=flat)](#)
-[![Python](https://img.shields.io/badge/Python-Developer-blue?style=flat&logo=python&logoColor=white)](#)
+[![Web Developer](https://img.shields.io/badge/Web-Developer-blueviolet?style=flat)]()
+[![MERN Stack](https://img.shields.io/badge/MERN_Stack-Learner-red?style=flat)]()
+[![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-success?style=flat)]()
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Enthusiast-orange?style=flat)]()
+[![Python](https://img.shields.io/badge/Python-Developer-blue?style=flat&logo=python&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/aayush-Visit-181717?style=social&logo=github)](https://github.com/aayushguptadev11)
+
 
 I’m **Ayush Gupta**, a *Web Developer* at **ExpertsofDeals**, currently expanding my skills in the **MERN stack** with a growing interest in AI Engineering and intelligent applications.
 
@@ -30,11 +32,4 @@ I’m **Ayush Gupta**, a *Web Developer* at **ExpertsofDeals**, currently expand
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
 
----
-
-### ⌜ Explore My Work ⌟
-
-**Explore my live portfolio and discover what I build!**
-
-[![Portfolio](https://img.shields.io/badge/aayush-Visit-181717?style=social&logo=github)](#)
 

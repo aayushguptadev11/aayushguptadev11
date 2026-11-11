@@ -1,5 +1,3 @@
-import aayush from "../../public/aayush.webp"
-
 function Profile() {
   return (
     <section className="min-h-screen flex items-center justify-center bg-slate-100 px-4">
